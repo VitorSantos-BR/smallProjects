@@ -13,8 +13,8 @@ O código JavaScript é responsável por gerar o QR code. Aqui está uma breve d
 - Se o campo de texto não estiver vazio, um pedido é feito para a API de QR Code, passando o valor como dado para o QR code.
 - O QR code gerado é então exibido na imagem na página.
 
-Licença
+## Licença
 Este projeto é de código aberto e está disponível para uso e modificação. Sinta-se à vontade para contribuir e melhorar o projeto!
 
-Contribuições
+## Contribuições
 Se você encontrar algum problema ou tiver sugestões para melhorar o projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
