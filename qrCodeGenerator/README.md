@@ -1,4 +1,4 @@
-Este projeto é um simples gerador de QR codes. Ele permite criar QR codes a partir de um texto inserido pelo usuário. O QR code gerado é exibido na tela para visualização imediata.
+### Este projeto é um simples gerador de QR codes. Ele permite criar QR codes a partir de um texto inserido pelo usuário. O QR code gerado é exibido na tela para visualização imediata.
 
 ## Estrutura do Projeto
 
